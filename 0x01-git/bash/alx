@@ -1,6 +1,2 @@
-#!/bin/bash
-<<<<<<< HEAD
-Alx School is so cool! 
-=======
-ALX School
->>>>>>> update_script
+!#/bin/bash
+ALX School is so cool!
